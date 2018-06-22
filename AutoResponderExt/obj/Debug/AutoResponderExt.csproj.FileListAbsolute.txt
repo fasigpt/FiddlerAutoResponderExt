@@ -1,0 +1,10 @@
+D:\project\fiddler2\AutoResponderExt\AutoResponderExt\bin\Debug\AutoResponderExt.dll
+D:\project\fiddler2\AutoResponderExt\AutoResponderExt\bin\Debug\AutoResponderExt.pdb
+D:\project\fiddler2\AutoResponderExt\AutoResponderExt\bin\Debug\Fiddler.exe
+D:\project\fiddler2\AutoResponderExt\AutoResponderExt\bin\Debug\Xceed.FileSystem.dll
+D:\project\fiddler2\AutoResponderExt\AutoResponderExt\bin\Debug\Xceed.Zip.dll
+D:\project\fiddler2\AutoResponderExt\AutoResponderExt\bin\Debug\Xceed.Compression.dll
+D:\project\fiddler2\AutoResponderExt\AutoResponderExt\bin\Debug\Xceed.Compression.Formats.dll
+D:\project\fiddler2\AutoResponderExt\AutoResponderExt\obj\Debug\ResolveAssemblyReference.cache
+D:\project\fiddler2\AutoResponderExt\AutoResponderExt\obj\Debug\AutoResponderExt.dll
+D:\project\fiddler2\AutoResponderExt\AutoResponderExt\obj\Debug\AutoResponderExt.pdb
